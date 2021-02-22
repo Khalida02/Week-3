@@ -1,0 +1,1 @@
+print(arr(input().split()).count)
